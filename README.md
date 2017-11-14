@@ -3,11 +3,11 @@
 本项目模拟浏览器爬取微博用户数据
 
 # 源码说明
-weibo.py : 主函数
-weibo1.py: 同上
-weibo_url.py: 待爬取微博链接
-weibo_user.sql: 存储数据库表的创建
-temp.html : 取数据的案例
+- weibo.py : 主函数
+- weibo1.py: 同上
+- weibo_url.py: 待爬取微博链接
+- weibo_user.sql: 存储数据库表的创建
+- temp.html : 取数据的案例
 
 
 # run
